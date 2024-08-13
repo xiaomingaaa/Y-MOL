@@ -1,0 +1,713 @@
+{
+    "sft0504": {
+        "file_name": "sft0504.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "drug_repurposing_instructions": {
+        "file_name": "drug_repurposing_instructions.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "drug_repurposing_instructions1": {
+        "file_name": "drug_repurposing_instructions.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "zp": {
+        "file_name": "zhoupeng.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "mtf": {
+        "file_name": "matengfei.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "QED_QA": {
+        "file_name": "QED_QA.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "TPSA_QA": {
+        "file_name": "TPSA_QA.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "Mol_Genrtation": {
+        "file_name": "Mol_Genrtation.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "Mol_Generation_new": {
+        "file_name": "Mol_Generation_new.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "LogP_QA_result": {
+        "file_name": "LogP_QA_result.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "LogP_QA_result1": {
+        "file_name": "LogP_QA_result1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "TPSA_QA_result_predict": {
+        "file_name": "TPSA_QA_result_predict.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "LogP_QA_smiles_result_predict": {
+        "file_name": "LogP_QA_smiles_result_predict.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "0625": {
+        "file_name": "0625.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "Flexibility_test": {
+        "file_name": "Flexibility_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "Molecular_Weight_test": {
+        "file_name": "Molecular_Weight_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "TPSA_test": {
+        "file_name": "TPSA_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "LogS_test": {
+        "file_name": "LogS_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "LogD7_4_test": {
+        "file_name": "LogD7_4_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "Volume_test": {
+        "file_name": "Volume_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "nRot_test": {
+        "file_name": "nRot_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "nHet_test": {
+        "file_name": "nHet_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "pKa_acidic_test": {
+        "file_name": "pKa_acidic_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "nHA_test": {
+        "file_name": "nHA_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "nRing_test": {
+        "file_name": "nRing_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "nRig_test": {
+        "file_name": "nRig_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "Melting_point_test": {
+        "file_name": "Melting_point_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "fChar_test": {
+        "file_name": "fChar_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "nHD_test": {
+        "file_name": "nHD_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "pKa_basic_test": {
+        "file_name": "pKa_basic_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "Boiling_point_test": {
+        "file_name": "Boiling_point_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "Stereo_Centers_test": {
+        "file_name": "Stereo_Centers_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "Density_test": {
+        "file_name": "Density_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "LogP_test": {
+        "file_name": "LogP_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "ddi_deng_instructions_test1": {
+        "file_name": "ddi_deng_instructions_test1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "ddi_deng_instructions_train1": {
+        "file_name": "ddi_deng_instructions_train1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "ddi_ryu_instructions_test1": {
+        "file_name": "ddi_ryu_instructions_test1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "ddi_ryu_instructions_train1": {
+        "file_name": "ddi_ryu_instructions_train1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "ddi_deng_instructions_samples_test1": {
+        "file_name": "ddi_deng_instructions_samples_test1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "ddi_deng_instructions_samples_train1": {
+        "file_name": "ddi_deng_instructions_samples_train1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "ddi_ryu_instructions_samples_test1": {
+        "file_name": "ddi_ryu_instructions_samples_test1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "ddi_ryu_instructions_samples_train1": {
+        "file_name": "ddi_ryu_instructions_samples_train1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "dti_drugbank_instructions_test1": {
+        "file_name": "dti_drugbank_instructions_test1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "dti_drugbank_instructions_train1": {
+        "file_name": "dti_drugbank_instructions_train1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "dti_drugcentral_instructions_test1": {
+        "file_name": "dti_drugcentral_instructions_test1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "dti_drugcentral_instructions_train1": {
+        "file_name": "dti_drugcentral_instructions_train1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "MaxRing_test": {
+        "file_name": "MaxRing_test.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_drd2_qed_sa": {
+        "file_name": "eval_drd2_qed_sa.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_drd2_qed": {
+        "file_name": "eval_drd2_qed.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_sa": {
+        "file_name": "eval_sa.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_logp_-3": {
+        "file_name": "eval_logp_-3.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_hia_v2": {
+        "file_name": "eval_hia_v2.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_bbb_qed": {
+        "file_name": "eval_bbb_qed.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_gsk3_qed_sa": {
+        "file_name": "eval_gsk3_qed_sa.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_hia": {
+        "file_name": "eval_hia.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_logp_-1": {
+        "file_name": "eval_logp_-1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_gsk3_qed": {
+        "file_name": "eval_gsk3_qed.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_hia_qed_sa": {
+        "file_name": "eval_hia_qed_sa.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_hia_v1": {
+        "file_name": "eval_hia_v1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_logp_5": {
+        "file_name": "eval_logp_5.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_furan_qed": {
+        "file_name": "eval_furan_qed.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_qed": {
+        "file_name": "eval_qed.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_benzene": {
+        "file_name": "eval_benzene.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_logp_3": {
+        "file_name": "eval_logp_3.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_logp_1": {
+        "file_name": "eval_logp_1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_drd2_v1": {
+        "file_name": "eval_drd2_v1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_drd2": {
+        "file_name": "eval_drd2.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_gsk3": {
+        "file_name": "eval_gsk3.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_bbb_qed_sa": {
+        "file_name": "eval_bbb_qed_sa.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_bbb_v1": {
+        "file_name": "eval_bbb_v1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_2fg": {
+        "file_name": "eval_2fg.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_drd2_v2": {
+        "file_name": "eval_drd2_v2.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_bbb": {
+        "file_name": "eval_bbb.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_furan": {
+        "file_name": "eval_furan.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_gsk3_v2": {
+        "file_name": "eval_gsk3_v2.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_gsk3_v1": {
+        "file_name": "eval_gsk3_v1.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_hia_qed": {
+        "file_name": "eval_hia_qed.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_bbb_v2": {
+        "file_name": "eval_bbb_v2.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    },
+    "eval_benzene_qed": {
+        "file_name": "eval_benzene_qed.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": "history"
+        }
+    }
+}

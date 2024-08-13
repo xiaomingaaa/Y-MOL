@@ -1,0 +1,1 @@
+python /zengdaojian/litianle/Mycode/Mol-chat/LLaMA-Factory/inference/llama2_inference_properties.py &> /zengdaojian/litianle/Mycode/Mol-chat/LLaMA-Factory/metric/Property/hh.log

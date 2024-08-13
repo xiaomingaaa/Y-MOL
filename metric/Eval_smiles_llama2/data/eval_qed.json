@@ -1,0 +1,7002 @@
+[
+    {
+        "id": 1,
+        "instruction": "The molecule contains cyanophenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 2,
+        "instruction": "The molecule contains benzothiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 3,
+        "instruction": "The molecule contains tetramethylmorpholin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 4,
+        "instruction": "The molecule contains dichlorophenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 5,
+        "instruction": "The molecule contains hydroxyphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 6,
+        "instruction": "The molecule contains ethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 7,
+        "instruction": "The molecule contains propanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 8,
+        "instruction": "The molecule contains bromopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 9,
+        "instruction": "The molecule contains cyclohexylpyrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 10,
+        "instruction": "The molecule contains cyclohexan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 11,
+        "instruction": "The molecule contains trimethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 12,
+        "instruction": "The molecule contains yloxan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 13,
+        "instruction": "The molecule contains dioxopyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 14,
+        "instruction": "The molecule contains ylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 15,
+        "instruction": "The molecule contains acetylphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 16,
+        "instruction": "The molecule contains dimethoxyphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 17,
+        "instruction": "The molecule contains bromophenoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 18,
+        "instruction": "The molecule contains quinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 19,
+        "instruction": "The molecule contains dimethylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 20,
+        "instruction": "The molecule contains cyclopropanecarboxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 21,
+        "instruction": "The molecule contains octahydroisoquinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 22,
+        "instruction": "The molecule contains cycloheptan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 23,
+        "instruction": "The molecule contains dimethylpiperazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 24,
+        "instruction": "The molecule contains iodophenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 25,
+        "instruction": "The molecule contains dimethylmorpholine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 26,
+        "instruction": "The molecule contains hydroxypropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 27,
+        "instruction": "The molecule contains methylhexan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 28,
+        "instruction": "The molecule contains acetamidophenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 29,
+        "instruction": "The molecule contains hydroxypiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 30,
+        "instruction": "The molecule contains cyanoethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 31,
+        "instruction": "The molecule contains ylpyridazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 32,
+        "instruction": "The molecule contains diazaspiro. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 33,
+        "instruction": "The molecule contains dioxothiolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 34,
+        "instruction": "The molecule contains chloropyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 35,
+        "instruction": "The molecule contains ylimidazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 36,
+        "instruction": "The molecule contains cyclopropylphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 37,
+        "instruction": "The molecule contains inden. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 38,
+        "instruction": "The molecule contains acetonitrile. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 39,
+        "instruction": "The molecule contains ylethanone. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 40,
+        "instruction": "The molecule contains anilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 41,
+        "instruction": "The molecule contains bromofuran. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 42,
+        "instruction": "The molecule contains aminocyclopentyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 43,
+        "instruction": "The molecule contains dichloro. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 44,
+        "instruction": "The molecule contains propylcyclopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 45,
+        "instruction": "The molecule contains phenylpyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 46,
+        "instruction": "The molecule contains cyclobutanecarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 47,
+        "instruction": "The molecule contains dimethoxybenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 48,
+        "instruction": "The molecule contains cyclopentylpyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 49,
+        "instruction": "The molecule contains cyclobutylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 50,
+        "instruction": "The molecule contains ylsulfonylpyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 51,
+        "instruction": "The molecule contains trimethylpiperazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 52,
+        "instruction": "The molecule contains methoxycyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 53,
+        "instruction": "The molecule contains trifluoromethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 54,
+        "instruction": "The molecule contains oxane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 55,
+        "instruction": "The molecule contains dimethoxyanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 56,
+        "instruction": "The molecule contains trifluorobutylsulfonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 57,
+        "instruction": "The molecule contains tetrahydronaphthalene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 58,
+        "instruction": "The molecule contains oxopyrrolidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 59,
+        "instruction": "The molecule contains propylpyrimidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 60,
+        "instruction": "The molecule contains ethylimidazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 61,
+        "instruction": "The molecule contains cyclopenta. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 62,
+        "instruction": "The molecule contains dibromophenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 63,
+        "instruction": "The molecule contains diethylcarbamothioate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 64,
+        "instruction": "The molecule contains diethylpyrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 65,
+        "instruction": "The molecule contains hydroxyoctyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 66,
+        "instruction": "The molecule contains dihydroinden. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 67,
+        "instruction": "The molecule contains benzamido. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 68,
+        "instruction": "The molecule contains cyclopropylcyclopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 69,
+        "instruction": "The molecule contains phenylpiperazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 70,
+        "instruction": "The molecule contains methylpyrrol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 71,
+        "instruction": "The molecule contains aminoazetidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 72,
+        "instruction": "The molecule contains pyrazolidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 73,
+        "instruction": "The molecule contains aminohexan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 74,
+        "instruction": "The molecule contains yloxyacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 75,
+        "instruction": "The molecule contains octahydroindolizin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 76,
+        "instruction": "The molecule contains ylbutanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 77,
+        "instruction": "The molecule contains yloxycyclohexane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 78,
+        "instruction": "The molecule contains methoxypyrazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 79,
+        "instruction": "The molecule contains hydroxycyclobutyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 80,
+        "instruction": "The molecule contains dihydroquinazolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 81,
+        "instruction": "The molecule contains dimethylpropanoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 82,
+        "instruction": "The molecule contains dibromophenoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 83,
+        "instruction": "The molecule contains cyclobutylmethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 84,
+        "instruction": "The molecule contains propanoylcarbamothioylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 85,
+        "instruction": "The molecule contains bromonaphthalen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 86,
+        "instruction": "The molecule contains adamantyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 87,
+        "instruction": "The molecule contains oxyphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 88,
+        "instruction": "The molecule contains hydroxypyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 89,
+        "instruction": "The molecule contains phenylpiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 90,
+        "instruction": "The molecule contains ylpropanoate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 91,
+        "instruction": "The molecule contains methoxybenzohydrazide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 92,
+        "instruction": "The molecule contains methylsulfonylpiperazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 93,
+        "instruction": "The molecule contains difluorocyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 94,
+        "instruction": "The molecule contains cyclohexyltetrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 95,
+        "instruction": "The molecule contains difluorobenzoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 96,
+        "instruction": "The molecule contains aminobutan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 97,
+        "instruction": "The molecule contains methyloxan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 98,
+        "instruction": "The molecule contains ethenamine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 99,
+        "instruction": "The molecule contains ethylanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 100,
+        "instruction": "The molecule contains ethylfuran. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 101,
+        "instruction": "The molecule contains chloroquinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 102,
+        "instruction": "The molecule contains propyloxan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 103,
+        "instruction": "The molecule contains cyclohexylmethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 104,
+        "instruction": "The molecule contains ethoxycarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 105,
+        "instruction": "The molecule contains dipropylpiperazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 106,
+        "instruction": "The molecule contains methylbutanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 107,
+        "instruction": "The molecule contains bromobenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 108,
+        "instruction": "The molecule contains ylpentan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 109,
+        "instruction": "The molecule contains benzylpyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 110,
+        "instruction": "The molecule contains benzylpyrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 111,
+        "instruction": "The molecule contains methylsulfanylpyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 112,
+        "instruction": "The molecule contains cyclopentanecarboxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 113,
+        "instruction": "The molecule contains butylazetidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 114,
+        "instruction": "The molecule contains oxopentan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 115,
+        "instruction": "The molecule contains methylcycloheptyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 116,
+        "instruction": "The molecule contains heptanoylpiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 117,
+        "instruction": "The molecule contains cyclohexanecarboxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 118,
+        "instruction": "The molecule contains dimethoxyquinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 119,
+        "instruction": "The molecule contains carbamoylphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 120,
+        "instruction": "The molecule contains methoxythiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 121,
+        "instruction": "The molecule contains dimethylpentanoate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 122,
+        "instruction": "The molecule contains methylsulfonylbenzoate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 123,
+        "instruction": "The molecule contains ylindazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 124,
+        "instruction": "The molecule contains phenylmethoxybenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 125,
+        "instruction": "The molecule contains cyclohexylaniline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 126,
+        "instruction": "The molecule contains dimethylazepan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 127,
+        "instruction": "The molecule contains phenylethenylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 128,
+        "instruction": "The molecule contains cyclopropanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 129,
+        "instruction": "The molecule contains phenylmethanol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 130,
+        "instruction": "The molecule contains cyclobutylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 131,
+        "instruction": "The molecule contains dimethylbutanethioylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 132,
+        "instruction": "The molecule contains methylsulfanylcyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 133,
+        "instruction": "The molecule contains cyclobutyloxyphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 134,
+        "instruction": "The molecule contains ylmethylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 135,
+        "instruction": "The molecule contains phenoxyacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 136,
+        "instruction": "The molecule contains methylsulfonylbenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 137,
+        "instruction": "The molecule contains cyanobenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 138,
+        "instruction": "The molecule contains bromopyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 139,
+        "instruction": "The molecule contains cyclopentene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 140,
+        "instruction": "The molecule contains butylhexanoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 141,
+        "instruction": "The molecule contains adamantylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 142,
+        "instruction": "The molecule contains dipropylcyclobutan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 143,
+        "instruction": "The molecule contains methylthiadiazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 144,
+        "instruction": "The molecule contains ylmethylideneamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 145,
+        "instruction": "The molecule contains ylethylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 146,
+        "instruction": "The molecule contains propanethioamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 147,
+        "instruction": "The molecule contains dihydrothiochromen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 148,
+        "instruction": "The molecule contains difluoroethoxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 149,
+        "instruction": "The molecule contains ylaniline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 150,
+        "instruction": "The molecule contains ylbenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 151,
+        "instruction": "The molecule contains methylbenzotriazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 152,
+        "instruction": "The molecule contains phenylsulfanylpropan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 153,
+        "instruction": "The molecule contains yloxypiperidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 154,
+        "instruction": "The molecule contains propoxybenzene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 155,
+        "instruction": "The molecule contains sulfamoylbenzamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 156,
+        "instruction": "The molecule contains phenylacetate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 157,
+        "instruction": "The molecule contains methylsulfonylthiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 158,
+        "instruction": "The molecule contains methoxyoxolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 159,
+        "instruction": "The molecule contains butylsulfonylpent. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 160,
+        "instruction": "The molecule contains cyclopentyloxyethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 161,
+        "instruction": "The molecule contains methylazetidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 162,
+        "instruction": "The molecule contains thiane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 163,
+        "instruction": "The molecule contains cyanothiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 164,
+        "instruction": "The molecule contains diethoxyphosphorylacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 165,
+        "instruction": "The molecule contains dipropylpyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 166,
+        "instruction": "The molecule contains cyclobutylbenzamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 167,
+        "instruction": "The molecule contains trifluoroacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 168,
+        "instruction": "The molecule contains phenoxypyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 169,
+        "instruction": "The molecule contains ethylbenzohydrazide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 170,
+        "instruction": "The molecule contains ethanesulfonate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 171,
+        "instruction": "The molecule contains formylphenoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 172,
+        "instruction": "The molecule contains ethyltetrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 173,
+        "instruction": "The molecule contains sulfanylpentan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 174,
+        "instruction": "The molecule contains fluorobenzene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 175,
+        "instruction": "The molecule contains yloxypiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 176,
+        "instruction": "The molecule contains sulfinylaniline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 177,
+        "instruction": "The molecule contains dichlorothiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 178,
+        "instruction": "The molecule contains phenylethylsulfanyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 179,
+        "instruction": "The molecule contains cyclodecan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 180,
+        "instruction": "The molecule contains cyclopentyloxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 181,
+        "instruction": "The molecule contains methoxypyrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 182,
+        "instruction": "The molecule contains methyltriazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 183,
+        "instruction": "The molecule contains dimethylindole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 184,
+        "instruction": "The molecule contains dimethylthiomorpholin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 185,
+        "instruction": "The molecule contains cyclopropylpiperazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 186,
+        "instruction": "The molecule contains phenylcyclopropane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 187,
+        "instruction": "The molecule contains ylbutanedioate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 188,
+        "instruction": "The molecule contains sulfonylfuran. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 189,
+        "instruction": "The molecule contains propylmethanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 190,
+        "instruction": "The molecule contains cyclopropylpyrimidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 191,
+        "instruction": "The molecule contains cyclopropylacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 192,
+        "instruction": "The molecule contains ylsulfonylpyrrole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 193,
+        "instruction": "The molecule contains difluoropentanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 194,
+        "instruction": "The molecule contains sulfanylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 195,
+        "instruction": "The molecule contains dipropylacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 196,
+        "instruction": "The molecule contains methoxyisoquinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 197,
+        "instruction": "The molecule contains phenylspiro. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 198,
+        "instruction": "The molecule contains phenoxypyrazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 199,
+        "instruction": "The molecule contains methylsulfanylcyclopentyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 200,
+        "instruction": "The molecule contains trimethylmorpholin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 201,
+        "instruction": "The molecule contains cyclohexyloxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 202,
+        "instruction": "The molecule contains aminopentyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 203,
+        "instruction": "The molecule contains methylthiolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 204,
+        "instruction": "The molecule contains ethylcyclopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 205,
+        "instruction": "The molecule contains cycloheptylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 206,
+        "instruction": "The molecule contains dimethylpropanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 207,
+        "instruction": "The molecule contains aminotetrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 208,
+        "instruction": "The molecule contains tetramethylbenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 209,
+        "instruction": "The molecule contains phenylthiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 210,
+        "instruction": "The molecule contains ethyltriazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 211,
+        "instruction": "The molecule contains methylpropoxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 212,
+        "instruction": "The molecule contains cycloheptylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 213,
+        "instruction": "The molecule contains dioxaborolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 214,
+        "instruction": "The molecule contains phenylcyclopentyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 215,
+        "instruction": "The molecule contains yloxyethanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 216,
+        "instruction": "The molecule contains cyclohexylsulfanylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 217,
+        "instruction": "The molecule contains propylsulfanylbenzimidazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 218,
+        "instruction": "The molecule contains dichlorothiophene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 219,
+        "instruction": "The molecule contains ethoxypiperidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 220,
+        "instruction": "The molecule contains trimethoxybenzamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 221,
+        "instruction": "The molecule contains cyclopentyltetrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 222,
+        "instruction": "The molecule contains dimethylhexanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 223,
+        "instruction": "The molecule contains cyclobutylethylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 224,
+        "instruction": "The molecule contains cyclopropylsulfonylpiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 225,
+        "instruction": "The molecule contains chlorobenzimidazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 226,
+        "instruction": "The molecule contains diphenylpent. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 227,
+        "instruction": "The molecule contains bromoimidazo. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 228,
+        "instruction": "The molecule contains trienylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 229,
+        "instruction": "The molecule contains diphenoxypyridine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 230,
+        "instruction": "The molecule contains phenylcarbamothioyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 231,
+        "instruction": "The molecule contains ethoxybenzotriazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 232,
+        "instruction": "The molecule contains cyclohexylsulfanylpyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 233,
+        "instruction": "The molecule contains ynylmethanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 234,
+        "instruction": "The molecule contains phenylpropylideneamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 235,
+        "instruction": "The molecule contains propylbutanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 236,
+        "instruction": "The molecule contains propylcyclopropane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 237,
+        "instruction": "The molecule contains cyclohexyloxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 238,
+        "instruction": "The molecule contains anilinophenoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 239,
+        "instruction": "The molecule contains methylsulfanylcyclopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 240,
+        "instruction": "The molecule contains phenylmethoxyethanone. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 241,
+        "instruction": "The molecule contains benzylsulfanylethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 242,
+        "instruction": "The molecule contains phenylmorpholin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 243,
+        "instruction": "The molecule contains butylbenzenecarbothioamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 244,
+        "instruction": "The molecule contains ethoxycarbonylsulfamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 245,
+        "instruction": "The molecule contains ylsulfonylurea. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 246,
+        "instruction": "The molecule contains ethylbenzotriazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 247,
+        "instruction": "The molecule contains bromopyrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 248,
+        "instruction": "The molecule contains cyclohexyliminomethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 249,
+        "instruction": "The molecule contains propanoyloxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 250,
+        "instruction": "The molecule contains butylsulfonylethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 251,
+        "instruction": "The molecule contains cyclopentylurea. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 252,
+        "instruction": "The molecule contains cyclopentylacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 253,
+        "instruction": "The molecule contains trifluoromethylsulfonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 254,
+        "instruction": "The molecule contains dibutyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 255,
+        "instruction": "The molecule contains dipropylimidazolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 256,
+        "instruction": "The molecule contains benzenecarbothioate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 257,
+        "instruction": "The molecule contains methoxypentylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 258,
+        "instruction": "The molecule contains dipropylpyrazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 259,
+        "instruction": "The molecule contains butylnaphthalen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 260,
+        "instruction": "The molecule contains cyclopentylethylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 261,
+        "instruction": "The molecule contains cyclopropyltetrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 262,
+        "instruction": "The molecule contains cyclopentylsulfonylacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 263,
+        "instruction": "The molecule contains ethoxycyclopropane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 264,
+        "instruction": "The molecule contains carbazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 265,
+        "instruction": "The molecule contains methylsulfanylhexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 266,
+        "instruction": "The molecule contains carbamoylcyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 267,
+        "instruction": "The molecule contains pentylbenzamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 268,
+        "instruction": "The molecule contains hexahydroquinoline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 269,
+        "instruction": "The molecule contains ethoxypyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 270,
+        "instruction": "The molecule contains cyclobutylsulfanyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 271,
+        "instruction": "The molecule contains dimethylnaphthalene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 272,
+        "instruction": "The molecule contains ylbenzimidazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 273,
+        "instruction": "The molecule contains cyclobutyloxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 274,
+        "instruction": "The molecule contains difluorobenzaldehyde. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 275,
+        "instruction": "The molecule contains cyclopropylbenzimidazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 276,
+        "instruction": "The molecule contains phenylcyclohexen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 277,
+        "instruction": "The molecule contains ethylimidazo. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 278,
+        "instruction": "The molecule contains yloxypropanehydrazide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 279,
+        "instruction": "The molecule contains ethoxycarbonylpyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 280,
+        "instruction": "The molecule contains cyclopentylethylcarbamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 281,
+        "instruction": "The molecule contains methoxypyridazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 282,
+        "instruction": "The molecule contains propylethane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 283,
+        "instruction": "The molecule contains pentylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 284,
+        "instruction": "The molecule contains cyclopentanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 285,
+        "instruction": "The molecule contains aminoheptyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 286,
+        "instruction": "The molecule contains cyclopentylpiperidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 287,
+        "instruction": "The molecule contains cyclopropylmethoxymethylsulfinyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 288,
+        "instruction": "The molecule contains dimethylbenzohydrazide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 289,
+        "instruction": "The molecule contains pentylpyrimidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 290,
+        "instruction": "The molecule contains sulfanylidenebutan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 291,
+        "instruction": "The molecule contains hydroxyoxan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 292,
+        "instruction": "The molecule contains ethoxypyrazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 293,
+        "instruction": "The molecule contains butylcyclopentyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 294,
+        "instruction": "The molecule contains dipropylfluoren. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 295,
+        "instruction": "The molecule contains aminocyclopentanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 296,
+        "instruction": "The molecule contains sulfanylidenepyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 297,
+        "instruction": "The molecule contains dicyclohexylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 298,
+        "instruction": "The molecule contains methylsulfonylindole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 299,
+        "instruction": "The molecule contains difluorocyclopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 300,
+        "instruction": "The molecule contains phenylmethoxycarbonylpiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 301,
+        "instruction": "The molecule contains cyclohexyltriazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 302,
+        "instruction": "The molecule contains dicyclopropylethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 303,
+        "instruction": "The molecule contains bromocyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 304,
+        "instruction": "The molecule contains hydroxyoxolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 305,
+        "instruction": "The molecule contains dimethoxyaniline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 306,
+        "instruction": "The molecule contains dimethylideneisoindol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 307,
+        "instruction": "The molecule contains fluoroazetidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 308,
+        "instruction": "The molecule contains trichloromethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 309,
+        "instruction": "The molecule contains cyclopentylpyrazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 310,
+        "instruction": "The molecule contains phenylsulfanylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 311,
+        "instruction": "The molecule contains phenylmethoxycyclopentan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 312,
+        "instruction": "The molecule contains ethylquinazoline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 313,
+        "instruction": "The molecule contains ethoxythiophene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 314,
+        "instruction": "The molecule contains phenoxysulfonylbenzenesulfonic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 315,
+        "instruction": "The molecule contains phenylbenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 316,
+        "instruction": "The molecule contains formylindol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 317,
+        "instruction": "The molecule contains cyclohexylethylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 318,
+        "instruction": "The molecule contains ethoxyethylsulfanylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 319,
+        "instruction": "The molecule contains ylbutanedial. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 320,
+        "instruction": "The molecule contains oxopentanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 321,
+        "instruction": "The molecule contains cyclopropyloxolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 322,
+        "instruction": "The molecule contains oxoquinoxalin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 323,
+        "instruction": "The molecule contains ylmethanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 324,
+        "instruction": "The molecule contains difluorocyclobutyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 325,
+        "instruction": "The molecule contains dimethylbutylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 326,
+        "instruction": "The molecule contains methylsulfanylthiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 327,
+        "instruction": "The molecule contains methylcycloheptanamine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 328,
+        "instruction": "The molecule contains fluorocyclopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 329,
+        "instruction": "The molecule contains propylsulfanylcyclobutyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 330,
+        "instruction": "The molecule contains dimethoxypyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 331,
+        "instruction": "The molecule contains cyclopentylpiperazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 332,
+        "instruction": "The molecule contains cyclopentylsulfanyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 333,
+        "instruction": "The molecule contains sulfonylbenzenecarbothioamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 334,
+        "instruction": "The molecule contains ethylthiomorpholin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 335,
+        "instruction": "The molecule contains dimethoxypropylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 336,
+        "instruction": "The molecule contains cyclopentylpyridine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 337,
+        "instruction": "The molecule contains methylsulfonylazetidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 338,
+        "instruction": "The molecule contains phenylethylsulfinyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 339,
+        "instruction": "The molecule contains cyclooctylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 340,
+        "instruction": "The molecule contains ylsulfonylethanamine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 341,
+        "instruction": "The molecule contains methylsulfonylcyclobutyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 342,
+        "instruction": "The molecule contains methylsulfonylethylsulfonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 343,
+        "instruction": "The molecule contains ethylsulfanylpropanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 344,
+        "instruction": "The molecule contains methylsulfanylformate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 345,
+        "instruction": "The molecule contains cyclobutylpyrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 346,
+        "instruction": "The molecule contains trimethylpyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 347,
+        "instruction": "The molecule contains difluoroethanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 348,
+        "instruction": "The molecule contains cyclopentylsulfonylpiperazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 349,
+        "instruction": "The molecule contains ylcyclononan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 350,
+        "instruction": "The molecule contains formamidobenzamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 351,
+        "instruction": "The molecule contains sulfonylacetaldehyde. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 352,
+        "instruction": "The molecule contains phenylmethoxypyridine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 353,
+        "instruction": "The molecule contains phenylethylcarbamothioyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 354,
+        "instruction": "The molecule contains nonylquinazolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 355,
+        "instruction": "The molecule contains ynylbenzamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 356,
+        "instruction": "The molecule contains cyclopentyloxyacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 357,
+        "instruction": "The molecule contains phenoxypropanedioic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 358,
+        "instruction": "The molecule contains cyclopentanecarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 359,
+        "instruction": "The molecule contains butoxypyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 360,
+        "instruction": "The molecule contains hexoxypyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 361,
+        "instruction": "The molecule contains ylsulfanylbenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 362,
+        "instruction": "The molecule contains diphenyloxolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 363,
+        "instruction": "The molecule contains tetrafluoropropylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 364,
+        "instruction": "The molecule contains cyanobenzohydrazide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 365,
+        "instruction": "The molecule contains dichloroanthracene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 366,
+        "instruction": "The molecule contains sulfanylpyridazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 367,
+        "instruction": "The molecule contains phenylazocan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 368,
+        "instruction": "The molecule contains ethylquinoxaline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 369,
+        "instruction": "The molecule contains trichloroanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 370,
+        "instruction": "The molecule contains cyclopentylethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 371,
+        "instruction": "The molecule contains tetramethylcyclopentane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 372,
+        "instruction": "The molecule contains ethoxyacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 373,
+        "instruction": "The molecule contains dipropoxybenzaldehyde. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 374,
+        "instruction": "The molecule contains ylsulfanylcarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 375,
+        "instruction": "The molecule contains dicyclopentyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 376,
+        "instruction": "The molecule contains difluorocyclopentyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 377,
+        "instruction": "The molecule contains ylsulfonylthiophene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 378,
+        "instruction": "The molecule contains benzyltriazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 379,
+        "instruction": "The molecule contains acetylthiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 380,
+        "instruction": "The molecule contains ethylcyclopentan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 381,
+        "instruction": "The molecule contains cyclohexylmethylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 382,
+        "instruction": "The molecule contains dipropylbutanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 383,
+        "instruction": "The molecule contains ylcyclopropan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 384,
+        "instruction": "The molecule contains methylsulfinylacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 385,
+        "instruction": "The molecule contains phenylindazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 386,
+        "instruction": "The molecule contains butylsulfonyloctan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 387,
+        "instruction": "The molecule contains pentylsulfonylacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 388,
+        "instruction": "The molecule contains cycloheptylbenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 389,
+        "instruction": "The molecule contains dimethoxybenzenecarbothioamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 390,
+        "instruction": "The molecule contains sulfanylethanamine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 391,
+        "instruction": "The molecule contains cyclopentylmethylsulfinylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 392,
+        "instruction": "The molecule contains cyclooctanamine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 393,
+        "instruction": "The molecule contains propylindazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 394,
+        "instruction": "The molecule contains phenylcyclopropanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 395,
+        "instruction": "The molecule contains dicyclopropylpyrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 396,
+        "instruction": "The molecule contains ethylsulfonylanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 397,
+        "instruction": "The molecule contains dibutylcarbamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 398,
+        "instruction": "The molecule contains diethylpiperazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 399,
+        "instruction": "The molecule contains phenoxyethylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 400,
+        "instruction": "The molecule contains pentylpyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 401,
+        "instruction": "The molecule contains cyclopentylmethylsulfanylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 402,
+        "instruction": "The molecule contains dimethylthiourea. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 403,
+        "instruction": "The molecule contains trimethylpyrazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 404,
+        "instruction": "The molecule contains benzenesulfinic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 405,
+        "instruction": "The molecule contains phenylmethoxycarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 406,
+        "instruction": "The molecule contains methylsulfonylethylsulfanyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 407,
+        "instruction": "The molecule contains acetylcyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 408,
+        "instruction": "The molecule contains yloxybenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 409,
+        "instruction": "The molecule contains methylbutylcarbamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 410,
+        "instruction": "The molecule contains cyanoindol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 411,
+        "instruction": "The molecule contains ylsulfanylethanone. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 412,
+        "instruction": "The molecule contains enylsulfonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 413,
+        "instruction": "The molecule contains fluoroquinazoline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 414,
+        "instruction": "The molecule contains sulfonyldecanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 415,
+        "instruction": "The molecule contains ethylmethanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 416,
+        "instruction": "The molecule contains cyclohexylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 417,
+        "instruction": "The molecule contains aminohexanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 418,
+        "instruction": "The molecule contains tetrahydroacridine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 419,
+        "instruction": "The molecule contains methylsulfinylbenzamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 420,
+        "instruction": "The molecule contains difluoroethylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 421,
+        "instruction": "The molecule contains cyclohexyloxynaphthalen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 422,
+        "instruction": "The molecule contains methylcyclohexanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 423,
+        "instruction": "The molecule contains propylpyrazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 424,
+        "instruction": "The molecule contains heptanylmethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 425,
+        "instruction": "The molecule contains sulfanylpiperazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 426,
+        "instruction": "The molecule contains cyclohexylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 427,
+        "instruction": "The molecule contains methylsulfonylbenzenesulfinate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 428,
+        "instruction": "The molecule contains cyclobutylethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 429,
+        "instruction": "The molecule contains hexoxybenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 430,
+        "instruction": "The molecule contains methoxyethylsulfonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 431,
+        "instruction": "The molecule contains cyclopropylpentanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 432,
+        "instruction": "The molecule contains ethylsulfanylethanone. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 433,
+        "instruction": "The molecule contains ethylsulfanylbenzoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 434,
+        "instruction": "The molecule contains cyclopropylethoxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 435,
+        "instruction": "The molecule contains hydroxyindole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 436,
+        "instruction": "The molecule contains phenoxyphenoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 437,
+        "instruction": "The molecule contains ylmethylsulfonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 438,
+        "instruction": "The molecule contains ylsulfanylpiperidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 439,
+        "instruction": "The molecule contains cyclododecylcarbamothioyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 440,
+        "instruction": "The molecule contains trifluoroethylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 441,
+        "instruction": "The molecule contains cyclohexylsulfanylpyridine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 442,
+        "instruction": "The molecule contains methylsulfinylacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 443,
+        "instruction": "The molecule contains ethylsulfanylcyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 444,
+        "instruction": "The molecule contains cycloheptylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 445,
+        "instruction": "The molecule contains cyclohexylazetidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 446,
+        "instruction": "The molecule contains dimethylbutylcarbamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 447,
+        "instruction": "The molecule contains ethoxypyridazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 448,
+        "instruction": "The molecule contains phenylmethoxycyclopent. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 449,
+        "instruction": "The molecule contains phenylcyclodecane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 450,
+        "instruction": "The molecule contains dibromoanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 451,
+        "instruction": "The molecule contains ylthiomorpholin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 452,
+        "instruction": "The molecule contains propyloxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 453,
+        "instruction": "The molecule contains sulfamoylthiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 454,
+        "instruction": "The molecule contains cycloheptylethane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 455,
+        "instruction": "The molecule contains cyclohexanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 456,
+        "instruction": "The molecule contains cyclobutylpropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 457,
+        "instruction": "The molecule contains butylsulfonylethylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 458,
+        "instruction": "The molecule contains nonanoylindole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 459,
+        "instruction": "The molecule contains bromoethylsulfinyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 460,
+        "instruction": "The molecule contains sulfonylpentan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 461,
+        "instruction": "The molecule contains cyclopentyloxyethylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 462,
+        "instruction": "The molecule contains cyanomethylsulfonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 463,
+        "instruction": "The molecule contains cyclobutylphenol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 464,
+        "instruction": "The molecule contains trichlorobenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 465,
+        "instruction": "The molecule contains ylmethylsulfinylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 466,
+        "instruction": "The molecule contains ethylazepane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 467,
+        "instruction": "The molecule contains trifluoropropylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 468,
+        "instruction": "The molecule contains dichloronaphthalene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 469,
+        "instruction": "The molecule contains cyanopyridazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 470,
+        "instruction": "The molecule contains oxycycloheptan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 471,
+        "instruction": "The molecule contains benzhydryloxypyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 472,
+        "instruction": "The molecule contains difluoromethanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 473,
+        "instruction": "The molecule contains phenoxycyclopent. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 474,
+        "instruction": "The molecule contains benzhydrylsulfanylacetate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 475,
+        "instruction": "The molecule contains pentyloxolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 476,
+        "instruction": "The molecule contains phenylmethoxycyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 477,
+        "instruction": "The molecule contains phenoxypyrrolidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 478,
+        "instruction": "The molecule contains pentylsulfonylethanol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 479,
+        "instruction": "The molecule contains cyclopentyloxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 480,
+        "instruction": "The molecule contains cyclopropylacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 481,
+        "instruction": "The molecule contains heptoxycyclopentan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 482,
+        "instruction": "The molecule contains phenoxycyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 483,
+        "instruction": "The molecule contains ethylsulfanylphenoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 484,
+        "instruction": "The molecule contains hydroxyoxepan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 485,
+        "instruction": "The molecule contains trifluoroethoxycarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 486,
+        "instruction": "The molecule contains phenylmethoxybenzonitrile. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 487,
+        "instruction": "The molecule contains cyclopentylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 488,
+        "instruction": "The molecule contains bromocyclopentyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 489,
+        "instruction": "The molecule contains ylethanethioic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 490,
+        "instruction": "The molecule contains oxybenzaldehyde. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 491,
+        "instruction": "The molecule contains ethylcyclopenten. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 492,
+        "instruction": "The molecule contains iodosylnaphthalene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 493,
+        "instruction": "The molecule contains ylsulfonylbutanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 494,
+        "instruction": "The molecule contains dichlorobenzotriazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 495,
+        "instruction": "The molecule contains ethylpurin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 496,
+        "instruction": "The molecule contains cyclopropylmorpholin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 497,
+        "instruction": "The molecule contains ethenylthiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 498,
+        "instruction": "The molecule contains fluoropentoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 499,
+        "instruction": "The molecule contains ethylsulfanylpropanoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 500,
+        "instruction": "The molecule contains cyclopropylbenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 501,
+        "instruction": "The molecule contains bromocyclopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 502,
+        "instruction": "The molecule contains sulfonylethylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 503,
+        "instruction": "The molecule contains sulfanylpiperidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 504,
+        "instruction": "The molecule contains sulfamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 505,
+        "instruction": "The molecule contains propylsulfonylpyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 506,
+        "instruction": "The molecule contains cyclooctyltetrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 507,
+        "instruction": "The molecule contains carbamoylbenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 508,
+        "instruction": "The molecule contains ethylbutylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 509,
+        "instruction": "The molecule contains cyanoethylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 510,
+        "instruction": "The molecule contains propylsulfanylethanol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 511,
+        "instruction": "The molecule contains benzenesulfonamidomethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 512,
+        "instruction": "The molecule contains propyloxolane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 513,
+        "instruction": "The molecule contains cyclohexylmethylideneamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 514,
+        "instruction": "The molecule contains trichloroethoxycarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 515,
+        "instruction": "The molecule contains sulfamoylpyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 516,
+        "instruction": "The molecule contains dibromopyrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 517,
+        "instruction": "The molecule contains dimethoxyethylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 518,
+        "instruction": "The molecule contains benzylsulfanylformate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 519,
+        "instruction": "The molecule contains cyclohexyltriazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 520,
+        "instruction": "The molecule contains yloxyazetidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 521,
+        "instruction": "The molecule contains adamantylcarbamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 522,
+        "instruction": "The molecule contains ethylsulfonylaniline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 523,
+        "instruction": "The molecule contains fluorobutylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 524,
+        "instruction": "The molecule contains ylthiomorpholine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 525,
+        "instruction": "The molecule contains propoxynaphthalene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 526,
+        "instruction": "The molecule contains difluorobenzenesulfonate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 527,
+        "instruction": "The molecule contains cyclopentylsulfanylpyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 528,
+        "instruction": "The molecule contains nonylbenzimidazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 529,
+        "instruction": "The molecule contains hexoxyethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 530,
+        "instruction": "The molecule contains cyclopentylethylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 531,
+        "instruction": "The molecule contains methylsulfanyloxybenzene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 532,
+        "instruction": "The molecule contains methoxycyclohexanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 533,
+        "instruction": "The molecule contains tetramethylanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 534,
+        "instruction": "The molecule contains cyclohexylimidazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 535,
+        "instruction": "The molecule contains phenylmethoxyacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 536,
+        "instruction": "The molecule contains enylethanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 537,
+        "instruction": "The molecule contains methylsulfanylthiolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 538,
+        "instruction": "The molecule contains diethoxyphosphorylsulfanyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 539,
+        "instruction": "The molecule contains cyclopentylethylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 540,
+        "instruction": "The molecule contains ethoxybutylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 541,
+        "instruction": "The molecule contains cyclohexyloxolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 542,
+        "instruction": "The molecule contains sulfinamoylbenzoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 543,
+        "instruction": "The molecule contains dipropyloxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 544,
+        "instruction": "The molecule contains cyclopropylcyclopropanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 545,
+        "instruction": "The molecule contains ethoxycarbonylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 546,
+        "instruction": "The molecule contains methylsulfonylpropanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 547,
+        "instruction": "The molecule contains enylmethanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 548,
+        "instruction": "The molecule contains cyclononyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 549,
+        "instruction": "The molecule contains phenylsulfanylhexan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 550,
+        "instruction": "The molecule contains butylsulfamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 551,
+        "instruction": "The molecule contains phenoxyethanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 552,
+        "instruction": "The molecule contains methylsulfonylbenzenesulfinic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 553,
+        "instruction": "The molecule contains pentylcarbamate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 554,
+        "instruction": "The molecule contains butylcyclopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 555,
+        "instruction": "The molecule contains propanoylisoquinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 556,
+        "instruction": "The molecule contains yloxycyclopentan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 557,
+        "instruction": "The molecule contains tetramethoxynaphthalen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 558,
+        "instruction": "The molecule contains cyclobutylethylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 559,
+        "instruction": "The molecule contains methylsulfonylethanol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 560,
+        "instruction": "The molecule contains cyclobutyloxyethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 561,
+        "instruction": "The molecule contains phenylmethoxypyran. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 562,
+        "instruction": "The molecule contains dichloropyridazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 563,
+        "instruction": "The molecule contains ethylsulfanylpropylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 564,
+        "instruction": "The molecule contains ethenylsulfanylpropan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 565,
+        "instruction": "The molecule contains carbamoylcyclopentyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 566,
+        "instruction": "The molecule contains cyclohexylpyrimidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 567,
+        "instruction": "The molecule contains cyclobutanesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 568,
+        "instruction": "The molecule contains methoxybutylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 569,
+        "instruction": "The molecule contains diazacycloundecane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 570,
+        "instruction": "The molecule contains isocyanoacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 571,
+        "instruction": "The molecule contains sulfonylcyclohex. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 572,
+        "instruction": "The molecule contains butylquinoline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 573,
+        "instruction": "The molecule contains ylethyliminomethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 574,
+        "instruction": "The molecule contains ylethylcarbamothioyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 575,
+        "instruction": "The molecule contains ylsulfanylbenzoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 576,
+        "instruction": "The molecule contains pentafluoropropylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 577,
+        "instruction": "The molecule contains methylsulfanylacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 578,
+        "instruction": "The molecule contains dibromopyrazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 579,
+        "instruction": "The molecule contains benzylindole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 580,
+        "instruction": "The molecule contains methylpropoxycarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 581,
+        "instruction": "The molecule contains difluoroethylsulfanyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 582,
+        "instruction": "The molecule contains yloxybenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 583,
+        "instruction": "The molecule contains phenylmethoxypropanoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 584,
+        "instruction": "The molecule contains ylsulfanylbutan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 585,
+        "instruction": "The molecule contains cyclobutylmethylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 586,
+        "instruction": "The molecule contains cyclopentylsulfonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 587,
+        "instruction": "The molecule contains phenylmethoxyphenol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 588,
+        "instruction": "The molecule contains phenoxypyrazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 589,
+        "instruction": "The molecule contains benzamidoacetate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 590,
+        "instruction": "The molecule contains cyclopropylpropanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 591,
+        "instruction": "The molecule contains methylsulfonylmethylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 592,
+        "instruction": "The molecule contains butoxyethoxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 593,
+        "instruction": "The molecule contains ethylsulfonylsulfanylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 594,
+        "instruction": "The molecule contains ylcyclobutanecarboxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 595,
+        "instruction": "The molecule contains methylsulfanylpyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 596,
+        "instruction": "The molecule contains cyclopentylsulfonylpyrrolidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 597,
+        "instruction": "The molecule contains cyclopropylmethylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 598,
+        "instruction": "The molecule contains methylsulfanylbutanenitrile. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 599,
+        "instruction": "The molecule contains ylbenzenecarbothioamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 600,
+        "instruction": "The molecule contains cyanopyrazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 601,
+        "instruction": "The molecule contains cyclohexylmethoxycarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 602,
+        "instruction": "The molecule contains cyclohexyloxypyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 603,
+        "instruction": "The molecule contains butoxycarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 604,
+        "instruction": "The molecule contains cyclopropylsulfonylpyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 605,
+        "instruction": "The molecule contains trimethylazetidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 606,
+        "instruction": "The molecule contains cyanopropylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 607,
+        "instruction": "The molecule contains trimethylpentanedioate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 608,
+        "instruction": "The molecule contains benzylideneoxepan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 609,
+        "instruction": "The molecule contains methyliminoethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 610,
+        "instruction": "The molecule contains fluorooxolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 611,
+        "instruction": "The molecule contains cyclododecan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 612,
+        "instruction": "The molecule contains ethynylthiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 613,
+        "instruction": "The molecule contains cyclobutylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 614,
+        "instruction": "The molecule contains butyloxolan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 615,
+        "instruction": "The molecule contains ylbutanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 616,
+        "instruction": "The molecule contains cyclobutylsulfanylphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 617,
+        "instruction": "The molecule contains aminobutylsulfanylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 618,
+        "instruction": "The molecule contains benzylsulfinylpyridine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 619,
+        "instruction": "The molecule contains diphenylbenzenesulfonohydrazide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 620,
+        "instruction": "The molecule contains cyclopentylsulfanylanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 621,
+        "instruction": "The molecule contains cyclopropanesulfinamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 622,
+        "instruction": "The molecule contains propylsulfonylpropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 623,
+        "instruction": "The molecule contains benzhydrylsulfinylbut. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 624,
+        "instruction": "The molecule contains hydroxyoctoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 625,
+        "instruction": "The molecule contains ethylhexoxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 626,
+        "instruction": "The molecule contains phenylmethoxybenzenesulfinic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 627,
+        "instruction": "The molecule contains cyclopentylazetidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 628,
+        "instruction": "The molecule contains fluoroethanol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 629,
+        "instruction": "The molecule contains hydroxycyclooctyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 630,
+        "instruction": "The molecule contains phenylsulfanylbenzoate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 631,
+        "instruction": "The molecule contains cyclobutylpiperidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 632,
+        "instruction": "The molecule contains iminoethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 633,
+        "instruction": "The molecule contains methylsulfonylpyridazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 634,
+        "instruction": "The molecule contains anilinopyrazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 635,
+        "instruction": "The molecule contains heptylsulfinylbenzoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 636,
+        "instruction": "The molecule contains ylcyclopent. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 637,
+        "instruction": "The molecule contains dipropylthiophene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 638,
+        "instruction": "The molecule contains cyclohexyloxypiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 639,
+        "instruction": "The molecule contains cyclobutylethoxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 640,
+        "instruction": "The molecule contains aminobenzotriazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 641,
+        "instruction": "The molecule contains enylbenzotriazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 642,
+        "instruction": "The molecule contains ethylbutylcarbamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 643,
+        "instruction": "The molecule contains dimethylbutylsulfonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 644,
+        "instruction": "The molecule contains cycloheptyloxybenzonitrile. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 645,
+        "instruction": "The molecule contains sulfonylcyclooctan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 646,
+        "instruction": "The molecule contains phenyloctanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 647,
+        "instruction": "The molecule contains cyclobutylethanamine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 648,
+        "instruction": "The molecule contains cyclohexylethanol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 649,
+        "instruction": "The molecule contains methylhexanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 650,
+        "instruction": "The molecule contains acetamidopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 651,
+        "instruction": "The molecule contains diphenylcyclopropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 652,
+        "instruction": "The molecule contains ylmethylcarbamothioyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 653,
+        "instruction": "The molecule contains cyclohexylsulfonylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 654,
+        "instruction": "The molecule contains methylsulfanylpropanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 655,
+        "instruction": "The molecule contains sulfonylpentanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 656,
+        "instruction": "The molecule contains cyclopropyloxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 657,
+        "instruction": "The molecule contains phenylmethoxybicyclo. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 658,
+        "instruction": "The molecule contains phenylpropanethioate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 659,
+        "instruction": "The molecule contains ethyltetrazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 660,
+        "instruction": "The molecule contains butanoylpyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 661,
+        "instruction": "The molecule contains heptoxypyrazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 662,
+        "instruction": "The molecule contains methylsulfonylacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 663,
+        "instruction": "The molecule contains trifluorobutanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 664,
+        "instruction": "The molecule contains propylcyclopropanecarboxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 665,
+        "instruction": "The molecule contains difluoroindole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 666,
+        "instruction": "The molecule contains cyclohexylsulfinyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 667,
+        "instruction": "The molecule contains propylsulfonylcyclohexane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 668,
+        "instruction": "The molecule contains cycloheptanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 669,
+        "instruction": "The molecule contains butoxynaphthalen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 670,
+        "instruction": "The molecule contains ethylsulfanylpropanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 671,
+        "instruction": "The molecule contains sulfonylthiomorpholine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 672,
+        "instruction": "The molecule contains propoxyazetidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 673,
+        "instruction": "The molecule contains propoxyquinoxalin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 674,
+        "instruction": "The molecule contains propoxyspiro. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 675,
+        "instruction": "The molecule contains cycloheptylpiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 676,
+        "instruction": "The molecule contains phenylsulfanylpyrimidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 677,
+        "instruction": "The molecule contains chlorosulfanylbenzoate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 678,
+        "instruction": "The molecule contains ethylcarbazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 679,
+        "instruction": "The molecule contains diethylazetidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 680,
+        "instruction": "The molecule contains dicyclohexylacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 681,
+        "instruction": "The molecule contains trimethoxyaniline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 682,
+        "instruction": "The molecule contains ylsulfanylnaphthalene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 683,
+        "instruction": "The molecule contains sulfonylethanesulfonic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 684,
+        "instruction": "The molecule contains ylsulfonylcyclopropane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 685,
+        "instruction": "The molecule contains sulfanylcycloheptan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 686,
+        "instruction": "The molecule contains butylpyrazolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 687,
+        "instruction": "The molecule contains cyclooctylacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 688,
+        "instruction": "The molecule contains ethylsulfonylethylsulfanyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 689,
+        "instruction": "The molecule contains cyclohexyloxyacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 690,
+        "instruction": "The molecule contains butylsulfanylpropanoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 691,
+        "instruction": "The molecule contains pentafluorobutylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 692,
+        "instruction": "The molecule contains chlorosulfonyloxypropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 693,
+        "instruction": "The molecule contains dihydroxybenzenesulfonate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 694,
+        "instruction": "The molecule contains cyclobutylnaphthalene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 695,
+        "instruction": "The molecule contains cyclooctylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 696,
+        "instruction": "The molecule contains cyclopentylcyclohexane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 697,
+        "instruction": "The molecule contains cyclooctylbenzamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 698,
+        "instruction": "The molecule contains propylbenzonitrile. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 699,
+        "instruction": "The molecule contains cyclopentylimino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 700,
+        "instruction": "The molecule contains carbamoylbenzenesulfonate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 701,
+        "instruction": "The molecule contains butoxycarbonylquinoline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 702,
+        "instruction": "The molecule contains cyclopentylaniline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 703,
+        "instruction": "The molecule contains octylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 704,
+        "instruction": "The molecule contains ylsulfanylthiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 705,
+        "instruction": "The molecule contains methylbutylsulfonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 706,
+        "instruction": "The molecule contains ethoxyethylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 707,
+        "instruction": "The molecule contains propoxycarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 708,
+        "instruction": "The molecule contains dimethylbutoxyphosphonamidic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 709,
+        "instruction": "The molecule contains cycloheptyloxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 710,
+        "instruction": "The molecule contains ethylcyclobutanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 711,
+        "instruction": "The molecule contains phenyloxetan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 712,
+        "instruction": "The molecule contains trifluoropropanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 713,
+        "instruction": "The molecule contains methylpropylsulfinylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 714,
+        "instruction": "The molecule contains methylsulfanylethanimidamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 715,
+        "instruction": "The molecule contains dimethylcyclopropanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 716,
+        "instruction": "The molecule contains cyclooctylbut. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 717,
+        "instruction": "The molecule contains cyclooctylpiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 718,
+        "instruction": "The molecule contains heptoxyethanol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 719,
+        "instruction": "The molecule contains cyclobutylbenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 720,
+        "instruction": "The molecule contains methylsulfanyltriazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 721,
+        "instruction": "The molecule contains heptylpyrimidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 722,
+        "instruction": "The molecule contains cyclohexylbutylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 723,
+        "instruction": "The molecule contains methylbutylsulfonylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 724,
+        "instruction": "The molecule contains cyclohexylpyrrolo. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 725,
+        "instruction": "The molecule contains enoxycarbonylazetidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 726,
+        "instruction": "The molecule contains cyclopropylpurin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 727,
+        "instruction": "The molecule contains cyclopropylethylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 728,
+        "instruction": "The molecule contains phenylsulfanylpiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 729,
+        "instruction": "The molecule contains decanoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 730,
+        "instruction": "The molecule contains triethoxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 731,
+        "instruction": "The molecule contains methylpentylcarbamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 732,
+        "instruction": "The molecule contains bromoethenylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 733,
+        "instruction": "The molecule contains trifluoropentylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 734,
+        "instruction": "The molecule contains methylbutanethioate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 735,
+        "instruction": "The molecule contains ethylsulfanylpropylsulfinyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 736,
+        "instruction": "The molecule contains acetamidoquinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 737,
+        "instruction": "The molecule contains heptanylmethylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 738,
+        "instruction": "The molecule contains difluorocyclohexanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 739,
+        "instruction": "The molecule contains methylsulfinylbenzimidazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 740,
+        "instruction": "The molecule contains cyclohexylethylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 741,
+        "instruction": "The molecule contains dipropylquinoline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 742,
+        "instruction": "The molecule contains carboxypropylsulfanylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 743,
+        "instruction": "The molecule contains dibutylcarbamate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 744,
+        "instruction": "The molecule contains ethenylsulfonylpyrazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 745,
+        "instruction": "The molecule contains tetrafluorobutyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 746,
+        "instruction": "The molecule contains butylcyclohexanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 747,
+        "instruction": "The molecule contains benzylcyclohexan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 748,
+        "instruction": "The molecule contains methylcyclobutanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 749,
+        "instruction": "The molecule contains ethynylquinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 750,
+        "instruction": "The molecule contains cyclopropylethylsulfinyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 751,
+        "instruction": "The molecule contains ethoxycarbonylimidazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 752,
+        "instruction": "The molecule contains cyclohexylsulfinylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 753,
+        "instruction": "The molecule contains trimethoxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 754,
+        "instruction": "The molecule contains cyclooctylsulfanylcyclohexan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 755,
+        "instruction": "The molecule contains hydroxycyclobutanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 756,
+        "instruction": "The molecule contains phenylpropanethioic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 757,
+        "instruction": "The molecule contains phenylsulfanyliminomethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 758,
+        "instruction": "The molecule contains cyclohexyloctan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 759,
+        "instruction": "The molecule contains propylbenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 760,
+        "instruction": "The molecule contains dibutylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 761,
+        "instruction": "The molecule contains cycloheptyloxypyridine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 762,
+        "instruction": "The molecule contains ethenylbenzenesulfonate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 763,
+        "instruction": "The molecule contains ethylcyclopentanecarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 764,
+        "instruction": "The molecule contains cyanopiperazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 765,
+        "instruction": "The molecule contains tetramethylpentanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 766,
+        "instruction": "The molecule contains butylbenzenesulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 767,
+        "instruction": "The molecule contains methylsulfinylpropanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 768,
+        "instruction": "The molecule contains dicyclohexylurea. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 769,
+        "instruction": "The molecule contains diphenyloxan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 770,
+        "instruction": "The molecule contains dicyclohexyloxyphenol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 771,
+        "instruction": "The molecule contains ethenylsulfonylethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 772,
+        "instruction": "The molecule contains sulfanylcyclopropane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 773,
+        "instruction": "The molecule contains ethoxybutanoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 774,
+        "instruction": "The molecule contains methoxycyclooctyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 775,
+        "instruction": "The molecule contains propylsulfanylacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 776,
+        "instruction": "The molecule contains propylsulfanylpyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 777,
+        "instruction": "The molecule contains cyclopentylmethylsulfamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 778,
+        "instruction": "The molecule contains octylspiro. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 779,
+        "instruction": "The molecule contains enylcyclopropanecarboxamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 780,
+        "instruction": "The molecule contains octylquinoline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 781,
+        "instruction": "The molecule contains phenyldiazenylpropanedinitrile. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 782,
+        "instruction": "The molecule contains diphenylphosphorylhexan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 783,
+        "instruction": "The molecule contains benzylsulfonylethylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 784,
+        "instruction": "The molecule contains cyclohexyloxyquinoline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 785,
+        "instruction": "The molecule contains bromomethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 786,
+        "instruction": "The molecule contains ylethanethioamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 787,
+        "instruction": "The molecule contains cyclobutylnaphthalen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 788,
+        "instruction": "The molecule contains propoxyindol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 789,
+        "instruction": "The molecule contains cyclobutyltriazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 790,
+        "instruction": "The molecule contains oxobutylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 791,
+        "instruction": "The molecule contains pentoxyacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 792,
+        "instruction": "The molecule contains cyclohexylpentanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 793,
+        "instruction": "The molecule contains cyclooctylprop. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 794,
+        "instruction": "The molecule contains phenoxypropoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 795,
+        "instruction": "The molecule contains phenylsulfanylpyrazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 796,
+        "instruction": "The molecule contains cyclopentylsulfonylpiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 797,
+        "instruction": "The molecule contains propoxycarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 798,
+        "instruction": "The molecule contains dipropylazetidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 799,
+        "instruction": "The molecule contains sulfanylquinazoline. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 800,
+        "instruction": "The molecule contains ethylsulfonylbutanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 801,
+        "instruction": "The molecule contains difluoromethylsulfonylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 802,
+        "instruction": "The molecule contains phenylpentoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 803,
+        "instruction": "The molecule contains ethenoxynaphthalene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 804,
+        "instruction": "The molecule contains phenoxybutanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 805,
+        "instruction": "The molecule contains cyclohexylsulfonylpyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 806,
+        "instruction": "The molecule contains cyclobutylindol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 807,
+        "instruction": "The molecule contains cyclopropylcarbamothioylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 808,
+        "instruction": "The molecule contains ethylsulfonylacetic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 809,
+        "instruction": "The molecule contains sulfinylpyrrolidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 810,
+        "instruction": "The molecule contains ylsulfonylbenzenecarbothioamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 811,
+        "instruction": "The molecule contains ethylsulfanylacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 812,
+        "instruction": "The molecule contains yloxybutanoate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 813,
+        "instruction": "The molecule contains propylsulfonylnaphthalene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 814,
+        "instruction": "The molecule contains cyclobutylmethanol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 815,
+        "instruction": "The molecule contains fluoroethylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 816,
+        "instruction": "The molecule contains hexoxypropanoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 817,
+        "instruction": "The molecule contains phenylhexanenitrile. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 818,
+        "instruction": "The molecule contains diethylazetidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 819,
+        "instruction": "The molecule contains cyclohexylideneacetyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 820,
+        "instruction": "The molecule contains ylsulfonylethanone. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 821,
+        "instruction": "The molecule contains sulfamoylnaphthalen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 822,
+        "instruction": "The molecule contains pentoxypyrrolidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 823,
+        "instruction": "The molecule contains diphenylbenzenesulfonic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 824,
+        "instruction": "The molecule contains methylsulfonylethylsulfonylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 825,
+        "instruction": "The molecule contains propylsulfanylpyrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 826,
+        "instruction": "The molecule contains benzenecarbothioic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 827,
+        "instruction": "The molecule contains propylsulfanylbutan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 828,
+        "instruction": "The molecule contains cycloheptylimidazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 829,
+        "instruction": "The molecule contains dihydrotetrazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 830,
+        "instruction": "The molecule contains propylsulfonylazetidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 831,
+        "instruction": "The molecule contains propylidenehydrazinylidene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 832,
+        "instruction": "The molecule contains anilinocarbamate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 833,
+        "instruction": "The molecule contains dibutylthiophene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 834,
+        "instruction": "The molecule contains cyclopentylsulfonylazetidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 835,
+        "instruction": "The molecule contains carbamothioylcyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 836,
+        "instruction": "The molecule contains cyclopentylsulfanylethanol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 837,
+        "instruction": "The molecule contains methylsulfonyltetrazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 838,
+        "instruction": "The molecule contains dimethylpentylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 839,
+        "instruction": "The molecule contains methylbutylcarbamothioylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 840,
+        "instruction": "The molecule contains phenylpropylsulfinyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 841,
+        "instruction": "The molecule contains cyclobutylmethylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 842,
+        "instruction": "The molecule contains propylcyclopropan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 843,
+        "instruction": "The molecule contains ethylcyclooctyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 844,
+        "instruction": "The molecule contains dibromopropanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 845,
+        "instruction": "The molecule contains dipropylfluorene. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 846,
+        "instruction": "The molecule contains octylsulfinylbenzoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 847,
+        "instruction": "The molecule contains cyclopentylmethylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 848,
+        "instruction": "The molecule contains dipropylthiourea. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 849,
+        "instruction": "The molecule contains cyclopentylsulfanylmethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 850,
+        "instruction": "The molecule contains pentyltriazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 851,
+        "instruction": "The molecule contains trifluoroethoxymethylsulfinyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 852,
+        "instruction": "The molecule contains phenoxypropanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 853,
+        "instruction": "The molecule contains isocyanomethylsulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 854,
+        "instruction": "The molecule contains ylsulfanylpropanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 855,
+        "instruction": "The molecule contains phenylsulfanylisoquinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 856,
+        "instruction": "The molecule contains trichloroethoxycarbonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 857,
+        "instruction": "The molecule contains butylbenzenecarbothioate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 858,
+        "instruction": "The molecule contains cyclopentyloxyphenoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 859,
+        "instruction": "The molecule contains ylsulfanylcyclopentan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 860,
+        "instruction": "The molecule contains acetamidooxan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 861,
+        "instruction": "The molecule contains ethenyltetrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 862,
+        "instruction": "The molecule contains dipropylbutanediamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 863,
+        "instruction": "The molecule contains ethylbutoxymethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 864,
+        "instruction": "The molecule contains propylsulfonylcyclopropane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 865,
+        "instruction": "The molecule contains propylcyclohexen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 866,
+        "instruction": "The molecule contains cyclohexyloxypropylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 867,
+        "instruction": "The molecule contains butanoylpiperazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 868,
+        "instruction": "The molecule contains benzylsulfanylmethanethioate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 869,
+        "instruction": "The molecule contains trichloroethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 870,
+        "instruction": "The molecule contains cyclopropylbutylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 871,
+        "instruction": "The molecule contains methylsulfanylethoxycarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 872,
+        "instruction": "The molecule contains trienylmethylsulfinyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 873,
+        "instruction": "The molecule contains diphenylbenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 874,
+        "instruction": "The molecule contains cycloheptyloxyphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 875,
+        "instruction": "The molecule contains cyclohexyloxycarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 876,
+        "instruction": "The molecule contains ylethanesulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 877,
+        "instruction": "The molecule contains enoxyanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 878,
+        "instruction": "The molecule contains butanoylcyclopentyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 879,
+        "instruction": "The molecule contains methylsulfinylcyclohexyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 880,
+        "instruction": "The molecule contains sulfonylimidazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 881,
+        "instruction": "The molecule contains heptylsulfonylbenzoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 882,
+        "instruction": "The molecule contains oxycarbonylsulfamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 883,
+        "instruction": "The molecule contains cyclohexyloxybenzenecarbothioamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 884,
+        "instruction": "The molecule contains propylsulfonylpropanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 885,
+        "instruction": "The molecule contains propanoylpyridine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 886,
+        "instruction": "The molecule contains hexanoylpiperazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 887,
+        "instruction": "The molecule contains yloxybutylcarbamoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 888,
+        "instruction": "The molecule contains yloxyindazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 889,
+        "instruction": "The molecule contains phenylsulfanylpyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 890,
+        "instruction": "The molecule contains methylsulfinylethylcarbamoylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 891,
+        "instruction": "The molecule contains thiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 892,
+        "instruction": "The molecule contains quinazolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 893,
+        "instruction": "The molecule contains ylbenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 894,
+        "instruction": "The molecule contains phenylpropan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 895,
+        "instruction": "The molecule contains ethanone. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 896,
+        "instruction": "The molecule contains phenoxybutanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 897,
+        "instruction": "The molecule contains tetrahydroisoquinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 898,
+        "instruction": "The molecule contains methylanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 899,
+        "instruction": "The molecule contains dioxoquinazolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 900,
+        "instruction": "The molecule contains triazolo. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 901,
+        "instruction": "The molecule contains trifluorophenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 902,
+        "instruction": "The molecule contains ethanol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 903,
+        "instruction": "The molecule contains phenol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 904,
+        "instruction": "The molecule contains difluoro. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 905,
+        "instruction": "The molecule contains methylbutyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 906,
+        "instruction": "The molecule contains furan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 907,
+        "instruction": "The molecule contains sulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 908,
+        "instruction": "The molecule contains pyrazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 909,
+        "instruction": "The molecule contains tetrahydro. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 910,
+        "instruction": "The molecule contains yladamantane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 911,
+        "instruction": "The molecule contains methoxyanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 912,
+        "instruction": "The molecule contains oxadiazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 913,
+        "instruction": "The molecule contains dimethylpyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 914,
+        "instruction": "The molecule contains oxopyrrolidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 915,
+        "instruction": "The molecule contains chlorothiophen. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 916,
+        "instruction": "The molecule contains dimethylimidazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 917,
+        "instruction": "The molecule contains fluoro. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 918,
+        "instruction": "The molecule contains cyclobutane. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 919,
+        "instruction": "The molecule contains ylpropan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 920,
+        "instruction": "The molecule contains heptan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 921,
+        "instruction": "The molecule contains cyclobutan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 922,
+        "instruction": "The molecule contains triazin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 923,
+        "instruction": "The molecule contains pyrrolidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 924,
+        "instruction": "The molecule contains dihydroindole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 925,
+        "instruction": "The molecule contains pyrazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 926,
+        "instruction": "The molecule contains methylazepan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 927,
+        "instruction": "The molecule contains diamine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 928,
+        "instruction": "The molecule contains propyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 929,
+        "instruction": "The molecule contains imidazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 930,
+        "instruction": "The molecule contains methoxybenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 931,
+        "instruction": "The molecule contains cyclobutyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 932,
+        "instruction": "The molecule contains thiazolidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 933,
+        "instruction": "The molecule contains bromopyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 934,
+        "instruction": "The molecule contains aminophenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 935,
+        "instruction": "The molecule contains oxoquinazolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 936,
+        "instruction": "The molecule contains benzodioxin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 937,
+        "instruction": "The molecule contains methylsulfonylphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 938,
+        "instruction": "The molecule contains methoxypyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 939,
+        "instruction": "The molecule contains piperazine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 940,
+        "instruction": "The molecule contains benzenecarbothioamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 941,
+        "instruction": "The molecule contains thiadiazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 942,
+        "instruction": "The molecule contains phenylbenzimidazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 943,
+        "instruction": "The molecule contains dimethylpyrimidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 944,
+        "instruction": "The molecule contains chlorophenoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 945,
+        "instruction": "The molecule contains methoxycarbonylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 946,
+        "instruction": "The molecule contains ylquinolin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 947,
+        "instruction": "The molecule contains sulfonylbutanamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 948,
+        "instruction": "The molecule contains ylacetamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 949,
+        "instruction": "The molecule contains dibromo. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 950,
+        "instruction": "The molecule contains benzofuran. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 951,
+        "instruction": "The molecule contains yldiazenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 952,
+        "instruction": "The molecule contains butanenitrile. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 953,
+        "instruction": "The molecule contains carbaldehyde. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 954,
+        "instruction": "The molecule contains propylpyridine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 955,
+        "instruction": "The molecule contains ylpiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 956,
+        "instruction": "The molecule contains oxadiazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 957,
+        "instruction": "The molecule contains oxetan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 958,
+        "instruction": "The molecule contains ethoxybenzenesulfonyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 959,
+        "instruction": "The molecule contains diazepan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 960,
+        "instruction": "The molecule contains ylsulfanyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 961,
+        "instruction": "The molecule contains methylbenzamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 962,
+        "instruction": "The molecule contains oxopyridin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 963,
+        "instruction": "The molecule contains ethanamine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 964,
+        "instruction": "The molecule contains benzoxazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 965,
+        "instruction": "The molecule contains morpholine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 966,
+        "instruction": "The molecule contains ylmethylamino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 967,
+        "instruction": "The molecule contains cyclopropyloxyphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 968,
+        "instruction": "The molecule contains cyclohexa. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 969,
+        "instruction": "The molecule contains dioxoisoindol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 970,
+        "instruction": "The molecule contains sulfanylethyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 971,
+        "instruction": "The molecule contains methylbenzoate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 972,
+        "instruction": "The molecule contains hydroxycycloheptyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 973,
+        "instruction": "The molecule contains difluoromethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 974,
+        "instruction": "The molecule contains dimethylfuran. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 975,
+        "instruction": "The molecule contains thiomorpholine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 976,
+        "instruction": "The molecule contains methylbenzoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 977,
+        "instruction": "The molecule contains trichlorophenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 978,
+        "instruction": "The molecule contains enoyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 979,
+        "instruction": "The molecule contains benzotriazol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 980,
+        "instruction": "The molecule contains carbamate. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 981,
+        "instruction": "The molecule contains chlorobenzamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 982,
+        "instruction": "The molecule contains ylmethoxy. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 983,
+        "instruction": "The molecule contains methylsulfonylpyrrolidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 984,
+        "instruction": "The molecule contains chloroanilino. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 985,
+        "instruction": "The molecule contains bromopentan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 986,
+        "instruction": "The molecule contains phenylcyclobut. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 987,
+        "instruction": "The molecule contains benzodioxol. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 988,
+        "instruction": "The molecule contains oxazinan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 989,
+        "instruction": "The molecule contains oxybenzonitrile. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 990,
+        "instruction": "The molecule contains ethoxyphenyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 991,
+        "instruction": "The molecule contains azetidine. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 992,
+        "instruction": "The molecule contains sulfonyloxan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 993,
+        "instruction": "The molecule contains phenylpropyl. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 994,
+        "instruction": "The molecule contains propylcycloheptan. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 995,
+        "instruction": "The molecule contains methoxybenzenesulfonamide. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 996,
+        "instruction": "The molecule contains dimethylmorpholin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 997,
+        "instruction": "The molecule contains methylindazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 998,
+        "instruction": "The molecule contains tetrazole. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 999,
+        "instruction": "The molecule contains heptanoic. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "id": 1000,
+        "instruction": "The molecule contains sulfonylpiperidin. It has a high qed score.",
+        "input": "",
+        "output": "",
+        "history": []
+    }
+]

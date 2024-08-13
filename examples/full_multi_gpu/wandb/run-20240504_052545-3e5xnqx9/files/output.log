@@ -1,0 +1,39 @@
+
+  0%|                                                                                                   | 0/6 [00:00<?, ?it/s]
+
+
+ 33%|██████████████████████████████▎                                                            | 2/6 [01:47<03:34, 53.62s/it]
+
+
+
+ 83%|███████████████████████████████████████████████████████████████████████████▊               | 5/6 [04:23<00:52, 52.71s/it]
+[2024-05-04 05:31:06,183] [INFO] [loss_scaler.py:182:update_scale] [deepspeed] OVERFLOW! Rank 0 Skipping step. Attempted loss scale: 32768, reducing to 16384
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 6/6 [05:16<00:00, 52.82s/it][INFO|trainer.py:2067] 2024-05-04 05:31:06,187 >>
+Training completed. Do not forget to share your model on huggingface.co/models =)
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 6/6 [05:16<00:00, 52.78s/it]
+[INFO|trainer.py:3067] 2024-05-04 05:31:13,041 >> Saving model checkpoint to /zengdaojian/litianle/Mycode/Mol-chat/LLaMA-Factory/save_model/llama2-7b-stf-full
+[INFO|configuration_utils.py:473] 2024-05-04 05:31:13,043 >> Configuration saved in /zengdaojian/litianle/Mycode/Mol-chat/LLaMA-Factory/save_model/llama2-7b-stf-full/config.json
+[INFO|configuration_utils.py:614] 2024-05-04 05:31:13,044 >> Configuration saved in /zengdaojian/litianle/Mycode/Mol-chat/LLaMA-Factory/save_model/llama2-7b-stf-full/generation_config.json
+[INFO|modeling_utils.py:2462] 2024-05-04 05:31:26,157 >> The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 3 checkpoint shards. You can find where each parameters has been saved in the index located at /zengdaojian/litianle/Mycode/Mol-chat/LLaMA-Factory/save_model/llama2-7b-stf-full/model.safetensors.index.json.
+[INFO|tokenization_utils_base.py:2459] 2024-05-04 05:31:26,158 >> tokenizer config file saved in /zengdaojian/litianle/Mycode/Mol-chat/LLaMA-Factory/save_model/llama2-7b-stf-full/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2468] 2024-05-04 05:31:26,159 >> Special tokens file saved in /zengdaojian/litianle/Mycode/Mol-chat/LLaMA-Factory/save_model/llama2-7b-stf-full/special_tokens_map.json
+[INFO|trainer.py:3376] 2024-05-04 05:31:27,252 >> ***** Running Evaluation *****
+[INFO|trainer.py:3378] 2024-05-04 05:31:27,252 >>   Num examples = 300
+[INFO|trainer.py:3381] 2024-05-04 05:31:27,252 >>   Batch size = 36
+***** train metrics *****
+  epoch                    =        2.4
+  train_loss               =     2.1005
+  train_runtime            = 0:05:25.24
+  train_samples_per_second =     24.904
+  train_steps_per_second   =      0.018
+05/04/2024 05:31:27 - WARNING - llmtuner.extras.ploting - No metric loss to plot.
+05/04/2024 05:31:27 - WARNING - llmtuner.extras.ploting - No metric eval_loss to plot.
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:03<00:00,  1.75s/it]
+[INFO|modelcard.py:450] 2024-05-04 05:31:32,720 >> Dropping the following result as it does not have all the necessary fields:
+{'task': {'name': 'Causal Language Modeling', 'type': 'text-generation'}}
+***** eval metrics *****
+  epoch                   =        2.4
+  eval_loss               =      1.675
+  eval_runtime            = 0:00:05.46
+  eval_samples_per_second =     54.934
+  eval_steps_per_second   =      0.366
