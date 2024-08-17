@@ -12,55 +12,109 @@
 <div align=center><img src="images/image.png" width="80%" height="80%" /></div>
 
 ## Abstract
-Identifying drug-drug interactions (DDIs) is essential for ensuring drug safety and facilitating drug development, which has garnered significant attention. Although existing methods have achieved impressive progress, the paradigm of learning from separate drug inputs still faces challenges: (1) \textit{limited structural representation fusion of DDI pairs}, and (2) \textit{the absence of spatial information regarding the internal substructures of the molecules}. We incorporate the explicit structure of visual molecules, such as the positional relationships and connectivity between functional substructures, and propose a pair-wise molecular self-supervised pretraining model for DDI prediction, named VisualDDI. Specifically, we blend the visual fragments of drug pairs into a unified input for joint encoding and then recover molecule-specific visual information for each drug individually. This approach integrates fine-grained structural representations from drug pairs. By using visual fragments as anchors, VisualDDI effectively captures the spatial information of substructures within visual molecules, representing a more comprehensive embedding of drug pairs. Experimental results show that VisualDDI, adopting a blending input to unified represent pair-wised visual molecules, achieves state-of-the-art performance on two benchmarks, with Macro-F1 score improvements of 3.13% and 2.94%, respectively. Further extensive results demonstrate the effectiveness of VisualDDI in both few-shot and inductive scenarios.
-![image](method.jpg)
+Large Language Models (LLMs) have recently demonstrated remarkable performance in general tasks across various fields. However, their effectiveness within specific domains such as drug development remains challenges. To solve these challenges,  we introduce Y-Mol, forming a well-established LLM paradigm for the flow of drug development. Y-Mol is a multiscale biomedical knowledge-guided LLM designed to accomplish tasks across lead compound discovery, pre-clinic, and clinic prediction. By integrating millions of multiscale biomedical knowledge and using LLaMA2 as the base LLM, Y-Mol augments the reasoning capability in the biomedical domain by learning from a corpus of publications, knowledge graphs, and expert-designed synthetic data. The capability is further enriched with three types of drug-oriented instructions: description-based prompts from processed publications, semantic-based prompts for extracting associations from knowledge graphs, and template-based prompts for understanding expert knowledge from biomedical tools. Besides, Y-Mol offers a set of LLM paradigms that can autonomously execute the downstream tasks across the entire process of drug development, including virtual screening, drug design, pharmacological properties prediction, and drug-related interaction prediction. Our extensive evaluations of various biomedical sources demonstrate that Y-Mol significantly outperforms general-purpose LLMs in discovering lead compounds, predicting molecular properties, and identifying drug interaction events.
 
 ## Requiremetns
 
 All the required packages can be installed by running `pip install -r requirements.txt`.
 ```
-tensorboard==2.9.1
-scikit-learn==0.22.1
-torch==1.11.0+cu113
-tqdm==4.61.2
-rdkit==2023.9.6
+torch>=1.13.1
+transformers>=4.37.2
+datasets>=2.14.3
+accelerate>=0.27.2
+peft>=0.10.0
+trl>=0.8.1
+gradio>=4.0.0
+scipy
+einops
+sentencepiece
+protobuf
+uvicorn
+pydantic
+fastapi
+sse-starlette
+matplotlib
+fire
+packaging
+pyyaml
 ```
 
 ## Datasets
-In the pretraining stage, we adopt a molecule collections from [ImageMol](https://drive.google.com/file/d/1t1Ws-wPYPeeuc8f_SGgnfUCVCzlM_jUJ/view?usp=sharing), you can download this data into `datasets/pretrain`
+In the self-supervised pretraining stage, we adopt the processed corpus from biomedical publications. The corpus is available at [here](https://drive.google.com/file/d/1c5H8XETytCUQnAI3d9NjslBaHYD5uqRQ/view?usp=sharing).
 
-All molecular images used on the pretraining and DDI prediction stages need to be preprocessed. The following command is necessary:
+In the supervised finetuning stage, we construct various instructions under different scenario. The instructions can be downloaded at [here](https://drive.google.com/file/d/1c5H8XETytCUQnAI3d9NjslBaHYD5uqRQ/view?usp=sharing).
+The dataset directory has `ddi、dti、Molecular_property_prediction、Molecule_generation` subdirectories, and each subdirectory has two subdirectories: `train and test`. You need to copy the json files in the two subdirectories into the `data` directory.
 
-- `python preprocess.py --type DDI`
+You can put the downloaded data into the `data` fold.
 
-You can process molecular images for different stages by change the param `--type`. `--type pretrain` for pretraining, `--type DDI` for DDI prediction, and `--type twosides_ind` for the inductive scenario.
 
-## Pretraining a unified model for representing drug pairs
-After preprocessing the molecular images, you can use the following command to pretrain a unified transformer-based encoder for modeling a pair of drugs.
+## Getting Started
 
-`python mae_pretrain.py --scale 200000`
+### Pretrain
 
-The param `--scale` represents the scale of molecules.
+#### Step 1
 
-## DDI prediction
-After pretraining a unified encoder, you can run the following command to get a DDI prediction model:
+First, you need to process the data into the following json format and place the file in the `data` directory.
 
-`python mae_classifier.py --pretrained_model_path ckpts/mae/vit-t-mae_8layers_patch16.pt`
+```
+{"text": ""}
+```
 
-For few-shot settings:
+#### Step 2
 
-`python mae_classifier.py --pretrained_model_path ckpts/mae/vit-t-mae_8layers_patch16.pt --fewshot fewer`
+Next, add the following to the `data/dataset_info.json` file.
 
-You can change `--fewshot rare` for difficult few-shot setting.
+```
+"wiki_demo": {
+        "file_name": "wiki_demo.json",
+        "columns": {
+            "prompt": "text"
+        }
+    }
+```
 
-For the inductive setting:
+#### Step 3
 
-`python mae_classifier_ts.py --pretrained_model_path ckpts/mae/vit-t-mae_8layers_patch16.pt --fold S1`
+Run `examples/full_multi_gpu/train_llama.sh`，set `--stage  pt`
 
-You can change `--fold S2` for S2 setting (two new drugs), S1 setting (one new drug, one existing drug).
+```
+bash examples/full_multi_gpu/train_llama.sh
+```
 
+### SFT
+#### Step1
+
+Make sure the training data is in the `data` directory and modify the `data/dataset_info.json` file accordingly
+
+#### Step2
+
+Run `examples/full_multi_gpu/train_llama.sh`，set `--stage  sft`
+
+```
+bash examples/full_multi_gpu/train_llama.sh
+```
+
+### Inference
+
+For molecular property prediction tasks, run examples/full_multi_gpu/predict_mpp.sh.
+
+```
+bash examples/full_multi_gpu/predict_mpp.sh
+```
+
+For DDI and DTI tasks, run examples/full_multi_gpu/predict_ddi_dti.sh.
+
+```
+bash examples/full_multi_gpu/predict_ddi_dti.sh
+```
+
+For molecular generation  tasks, run examples/full_multi_gpu/predict_mg.sh.
+
+```
+bash examples/full_multi_gpu/predict_mg.sh
+```
 
 
 ## Acknowledge
-The code is implemented based on MAE_pytorch (https://github.com/IcarusWizard/MAE/tree/main). The benchmark datasets are from [MRCGNN](https://github.com/Zhankun-Xiong/MRCGNN) (Deng&Ryu datasets), [EmerGNN](https://github.com/LARS-research/EmerGNN) (inductive), and process few-shot data based on [META-DDIE](https://github.com/YifanDengWHU/META-DDIE).
-We thank you very much for their sharing.
+The code is implemented based on LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory). The base LLM model is LLaMA2-7b (https://huggingface.co/meta-llama/Llama-2-7b-hf/tree/main).
+We thank you very much for their sharing and contributions.
