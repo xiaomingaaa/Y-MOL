@@ -2,7 +2,7 @@
 <h1 align="center">  <img src="images/ymol_logo.jpg" alt="logo" width=80 /> </h1>
 <h3 align="center"> A Multi-scale Biomedical Knowledge Guided Large Language Model for Drug Development. </h3>
 <p align="center">
-  📃 <a href="https://arxiv.org/abs/2410.11550" target="_blank">Paper</a> • ⏬ <a href="https://drive.google.com/file/d/1c5H8XETytCUQnAI3d9NjslBaHYD5uqRQ/view?usp=sharing" target="_blank">Dataset</a><br>
+  📃 <a href="https://arxiv.org/abs/2410.11550" target="_blank">Paper</a> • ⏬ <a href="https://huggingface.co/collections/Matthewmtf/y-mol-684662d51df6ef64e9cf2e1c" target="_blank">Hugging Face</a><br>
 </p>
 
 [![Code License](https://img.shields.io/badge/Code%20License-MIT-green.svg)](https://github.com/zjunlp/Mol-Instructions/blob/main/LICENSE)
