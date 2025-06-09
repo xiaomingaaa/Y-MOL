@@ -1,5 +1,5 @@
 
-<h1 align="center">  <img src="images/image-1.png" alt="logo" width=22 /> Y-Mol  </h1>
+<h1 align="center">  <img src="images/ymol_logo.png" alt="logo" width=22 /> </h1>
 <h3 align="center"> A Multi-scale Biomedical Knowledge Guided Large Language Model for Drug Development. </h3>
 <p align="center">
   📃 <a href="#" target="_blank">Paper</a> • ⏬ <a href="https://drive.google.com/file/d/1c5H8XETytCUQnAI3d9NjslBaHYD5uqRQ/view?usp=sharing" target="_blank">Dataset</a><br>
