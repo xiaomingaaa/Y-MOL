@@ -120,4 +120,21 @@ bash examples/full_multi_gpu/predict_mg.sh
 
 ## Acknowledge
 The code is implemented based on LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory). The base LLM model is LLaMA2-7b (https://huggingface.co/meta-llama/Llama-2-7b-hf/tree/main).
-We thank you very much for their sharing and contributions.
+We thank them very much for their sharing and contributions.
+
+## Cite
+```
+@misc{ymol2025,
+  author = {Tengfei Ma, Junwen Zhu},
+  title = {A Localized Web Tool Based on Large Language Model for Drug Development},
+  howpublished = "\url{https://github.com/xiaomingaaa/Y-MOL}",
+  year = {2025}
+}
+
+@article{ma2024mol,
+  title={Y-mol: A multiscale biomedical knowledge-guided large language model for drug development},
+  author={Ma, Tengfei and Lin, Xuan and Li, Tianle and Li, Chaoyi and Chen, Long and Zhou, Peng and Cai, Xibao and Yang, Xinyu and Zeng, Daojian and Cao, Dongsheng and others},
+  journal={arXiv preprint arXiv:2410.11550},
+  year={2024}
+}
+```
